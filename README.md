@@ -1,0 +1,4 @@
+# TabbarDemo
+创建TabbarController
+
+创建4个tabbar按钮，把Navgation当做子控件Add到TabbarController上。
